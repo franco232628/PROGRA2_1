@@ -1,0 +1,3 @@
+C:/Users/renat/OneDrive/Documentos/ACADEMIA PASALO/PROG2/RESOLUCIONES/Laboratorio 1/Laboratorio 1 24-2/Fuentes_Biblioteca_2024_2/BibCompilada/cmake-build-debug/CMakeFiles/BibCompilada.dir
+C:/Users/renat/OneDrive/Documentos/ACADEMIA PASALO/PROG2/RESOLUCIONES/Laboratorio 1/Laboratorio 1 24-2/Fuentes_Biblioteca_2024_2/BibCompilada/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/renat/OneDrive/Documentos/ACADEMIA PASALO/PROG2/RESOLUCIONES/Laboratorio 1/Laboratorio 1 24-2/Fuentes_Biblioteca_2024_2/BibCompilada/cmake-build-debug/CMakeFiles/rebuild_cache.dir
