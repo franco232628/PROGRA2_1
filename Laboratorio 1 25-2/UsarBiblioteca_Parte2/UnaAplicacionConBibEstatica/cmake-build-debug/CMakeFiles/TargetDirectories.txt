@@ -1,0 +1,3 @@
+C:/Users/GRINGO/Downloads/oño/pasalo/Laboratorio 1 25-2/UsarBiblioteca_Parte2/UnaAplicacionConBibEstatica/cmake-build-debug/CMakeFiles/UnaAplicacionConBibEstatica.dir
+C:/Users/GRINGO/Downloads/oño/pasalo/Laboratorio 1 25-2/UsarBiblioteca_Parte2/UnaAplicacionConBibEstatica/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/GRINGO/Downloads/oño/pasalo/Laboratorio 1 25-2/UsarBiblioteca_Parte2/UnaAplicacionConBibEstatica/cmake-build-debug/CMakeFiles/rebuild_cache.dir

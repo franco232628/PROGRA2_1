@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/renat/OneDrive/Desktop/AcademiaPasalo/Laboratorio 1/Laboratorio 1 25-2/UsarBiblioteca_Parte2/UnaAplicacionConBibEstatica/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\UnaAplicacionConBibEstatica.dir\\main.cpp.obj -c \"C:\\Users\\renat\\OneDrive\\Desktop\\AcademiaPasalo\\Laboratorio 1\\Laboratorio 1 25-2\\UsarBiblioteca_Parte2\\UnaAplicacionConBibEstatica\\main.cpp\"",
+  "file": "C:/Users/renat/OneDrive/Desktop/AcademiaPasalo/Laboratorio 1/Laboratorio 1 25-2/UsarBiblioteca_Parte2/UnaAplicacionConBibEstatica/main.cpp",
+  "output": "C:/Users/renat/OneDrive/Desktop/AcademiaPasalo/Laboratorio 1/Laboratorio 1 25-2/UsarBiblioteca_Parte2/UnaAplicacionConBibEstatica/cmake-build-debug/CMakeFiles/UnaAplicacionConBibEstatica.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/renat/OneDrive/Desktop/AcademiaPasalo/Laboratorio 1/Laboratorio 1 25-2/UsarBiblioteca_Parte2/UnaAplicacionConBibEstatica/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\UnaAplicacionConBibEstatica.dir\\FuncionesAuxiliares.cpp.obj -c \"C:\\Users\\renat\\OneDrive\\Desktop\\AcademiaPasalo\\Laboratorio 1\\Laboratorio 1 25-2\\UsarBiblioteca_Parte2\\UnaAplicacionConBibEstatica\\FuncionesAuxiliares.cpp\"",
+  "file": "C:/Users/renat/OneDrive/Desktop/AcademiaPasalo/Laboratorio 1/Laboratorio 1 25-2/UsarBiblioteca_Parte2/UnaAplicacionConBibEstatica/FuncionesAuxiliares.cpp",
+  "output": "C:/Users/renat/OneDrive/Desktop/AcademiaPasalo/Laboratorio 1/Laboratorio 1 25-2/UsarBiblioteca_Parte2/UnaAplicacionConBibEstatica/cmake-build-debug/CMakeFiles/UnaAplicacionConBibEstatica.dir/FuncionesAuxiliares.cpp.obj"
+}
+]
