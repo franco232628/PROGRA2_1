@@ -1,0 +1,6 @@
+INF263          Algoritmia
+Profe1
+Alumnos presenciales:            1
+Alumnos semipresenciales:        1
+Alumnos virtuales:               1
+La clase se dictara 100% virtual
