@@ -1,0 +1,3 @@
+C:/Users/GRINGO/Documents/pucp/progra2_lab2/until/cmake-build-debug/CMakeFiles/until.dir
+C:/Users/GRINGO/Documents/pucp/progra2_lab2/until/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/GRINGO/Documents/pucp/progra2_lab2/until/cmake-build-debug/CMakeFiles/rebuild_cache.dir
