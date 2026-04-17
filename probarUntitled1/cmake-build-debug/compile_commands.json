@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/HP/Documents/labs_resolver/lab_1/prueba/probarUntitled1/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE  -LC:/Users/HP/Documents/labs_resolver/lab_1/prueba/probarUntitled1/Biblioteca -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\probarUntitled1.dir\\main.cpp.obj -c C:\\Users\\HP\\Documents\\labs_resolver\\lab_1\\prueba\\probarUntitled1\\main.cpp",
+  "file": "C:/Users/HP/Documents/labs_resolver/lab_1/prueba/probarUntitled1/main.cpp",
+  "output": "C:/Users/HP/Documents/labs_resolver/lab_1/prueba/probarUntitled1/cmake-build-debug/CMakeFiles/probarUntitled1.dir/main.cpp.obj"
+}
+]

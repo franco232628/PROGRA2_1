@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/HP/Documents/labs_resolver/lab_1/prueba/untitled1/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Mylibreria.dir\\biblioteca\\Mylibreria.cpp.obj -c C:\\Users\\HP\\Documents\\labs_resolver\\lab_1\\prueba\\untitled1\\biblioteca\\Mylibreria.cpp",
+  "file": "C:/Users/HP/Documents/labs_resolver/lab_1/prueba/untitled1/biblioteca/Mylibreria.cpp",
+  "output": "C:/Users/HP/Documents/labs_resolver/lab_1/prueba/untitled1/cmake-build-debug/CMakeFiles/Mylibreria.dir/biblioteca/Mylibreria.cpp.obj"
+},
+{
+  "directory": "C:/Users/HP/Documents/labs_resolver/lab_1/prueba/untitled1/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\untitled1.dir\\main.cpp.obj -c C:\\Users\\HP\\Documents\\labs_resolver\\lab_1\\prueba\\untitled1\\main.cpp",
+  "file": "C:/Users/HP/Documents/labs_resolver/lab_1/prueba/untitled1/main.cpp",
+  "output": "C:/Users/HP/Documents/labs_resolver/lab_1/prueba/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/main.cpp.obj"
+}
+]

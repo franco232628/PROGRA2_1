@@ -1,0 +1,4 @@
+C:/Users/HP/Documents/labs_resolver/lab_1/prueba/untitled1/cmake-build-debug/CMakeFiles/Mylibreria.dir
+C:/Users/HP/Documents/labs_resolver/lab_1/prueba/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir
+C:/Users/HP/Documents/labs_resolver/lab_1/prueba/untitled1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/HP/Documents/labs_resolver/lab_1/prueba/untitled1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

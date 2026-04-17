@@ -1,0 +1,82 @@
+==============================
+*** MASCOTAS Y ATENCIONES ***
+==============================
+ID: 101
+   Nombre: Luna
+   Raza: Labrador
+   Color: Negro
+   Tipo: CANINO
+Fecha: 20250407, ID: 1001, Veterinario: 204, Tipo: CONTROL, Estado: PROGRAMADA
+Fecha: 20260408, ID: 1002, Veterinario: 204, Tipo: VACUNACION, Estado: PROGRAMADA
+------------------------------
+ID: 102
+   Nombre: Michi
+   Raza: Siames
+   Color: Blanco
+   Tipo: FELINO
+No tiene intenciones registradas
+------------------------------
+ID: 103
+   Nombre: Rocky
+   Raza: Bulldog
+   Color: Marron
+   Tipo: CANINO
+Fecha: 20251003, ID: 1003, Veterinario: 201, Tipo: VACUNACION, Estado: PROGRAMADA
+Fecha: 20260408, ID: 1004, Veterinario: 201, Tipo: CONTROL, Estado: REPROGRAMADA
+------------------------------
+ID: 104
+   Nombre: Nala
+   Raza: Persa
+   Color: Gris
+   Tipo: FELINO
+No tiene intenciones registradas
+------------------------------
+ID: 105
+   Nombre: Toby
+   Raza: Beagle
+   Color: Tricolor
+   Tipo: CANINO
+Fecha: 20260409, ID: 1005, Veterinario: 202, Tipo: CASTRACION, Estado: PROGRAMADA
+------------------------------
+ID: 106
+   Nombre: Simba
+   Raza: Comun
+   Color: Naranja
+   Tipo: FELINO
+Fecha: 20260409, ID: 1006, Veterinario: 204, Tipo: VACUNACION, Estado: PROGRAMADA
+------------------------------
+ID: 107
+   Nombre: Max
+   Raza: PastorAleman
+   Color: Negro
+   Tipo: CANINO
+Fecha: 20260411, ID: 1007, Veterinario: 201, Tipo: CONTROL, Estado: PENDIENTE
+------------------------------
+ID: 108
+   Nombre: Kira
+   Raza: Siames
+   Color: Crema
+   Tipo: FELINO
+No tiene intenciones registradas
+------------------------------
+ID: 109
+   Nombre: Dali
+   Raza: Americano
+   Color: Blanco
+   Tipo: FELINO
+Fecha: 20251220, ID: 1009, Veterinario: 207, Tipo: CONTROL, Estado: PROGRAMADA
+------------------------------
+ID: 110
+   Nombre: LuisXV
+   Raza: Siberiano
+   Color: plomo
+   Tipo: FELINO
+Fecha: 20260415, ID: 1011, Veterinario: 205, Tipo: VACUNACION, Estado: PENDIENTE
+------------------------------
+ID: 111
+   Nombre: Terry
+   Raza: PastorAleman
+   Color: Caramelo
+   Tipo: CANINO
+No tiene intenciones registradas
+------------------------------

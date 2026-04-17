@@ -1,0 +1,23 @@
+===================================
+*** MASCOTAS PARA ESTERILIZAAR ***
+===================================
+ID: 102
+   Nombre: Michi
+   Raza: Siames
+   Color: Blanco
+   Tipo: FELINO
+ID: 105
+   Nombre: Toby
+   Raza: Beagle
+   Color: Tricolor
+   Tipo: CANINO
+ID: 109
+   Nombre: Dali
+   Raza: Americano
+   Color: Blanco
+   Tipo: FELINO
+ID: 111
+   Nombre: Terry
+   Raza: PastorAleman
+   Color: Caramelo
+   Tipo: CANINO

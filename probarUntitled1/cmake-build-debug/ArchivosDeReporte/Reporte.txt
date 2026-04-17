@@ -1,0 +1,5 @@
+ID: 101
+   Nombre: Luna
+   Raza: Labrador
+   Color: Negro
+   Tipo: CANINO

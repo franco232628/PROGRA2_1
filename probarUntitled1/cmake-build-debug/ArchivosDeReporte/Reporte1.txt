@@ -1,0 +1,5 @@
+ID: 102
+   Nombre: Michi
+   Raza: Siames
+   Color: Blanco
+   Tipo: FELINO
